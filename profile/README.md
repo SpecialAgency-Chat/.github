@@ -1,7 +1,7 @@
 # 【EVAL】特務機関chat
 
 <div align="center">
-  <img src="https://cdn.upload.systems/uploads/OurdHFNc.png" alt="ロゴ">
+  <img src="https://cdn.upload.systems/uploads/OurdHFNc.png" style="width: 200px;" alt="ロゴ">
 </div>
 
 ## About us
