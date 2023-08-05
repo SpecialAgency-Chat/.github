@@ -1,7 +1,7 @@
 # 【EVAL】特務機関chat
 
 <div align="center">
-  <img src="https://cdn.upload.systems/uploads/U7nclcC4.png" alt="ロゴ">
+  <img src="https://cdn.upload.systems/uploads/OurdHFNc.png" alt="ロゴ">
 </div>
 
 ## About us
